@@ -726,6 +726,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.9964506,
+          38.4702621
+        ]
+      },
+      "properties": {
+        "leisure": "escape_game",
+        "name": "Puzzle Room Live",
+        "@id": "node/11673332745",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9976507,
+          38.4696279
+        ]
+      },
+      "properties": {
+        "leisure": "amusement_arcade",
+        "name": "Unreality",
+        "@id": "node/11674156536",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0835844,
           38.8632835
         ]
@@ -773,6 +805,38 @@
         "sport": "10pin;laser_tag",
         "website": "https://uptownalleymanassas.com",
         "@id": "node/11967142942",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1923846,
+          39.1433952
+        ]
+      },
+      "properties": {
+        "leisure": "indoor_play",
+        "name": "Little Gym of Winchester",
+        "@id": "node/12086091790",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1572462,
+          39.1997332
+        ]
+      },
+      "properties": {
+        "leisure": "escape_game",
+        "name": "Wreck It Rage Roomz",
+        "@id": "node/12110614871",
         "@type": "node"
       }
     },
@@ -1694,6 +1758,22 @@
         "name": "Time Mission - Manassas",
         "website": "https://timemission.com/Manassas",
         "@id": "node/13422403247",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.994491,
+          38.4727983
+        ]
+      },
+      "properties": {
+        "leisure": "amusement_arcade",
+        "name": "Throwbacks",
+        "@id": "node/13431341700",
         "@type": "node"
       }
     },
@@ -3002,6 +3082,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.1747691,
+          39.1522298
+        ]
+      },
+      "properties": {
+        "addr:city": "Winchester",
+        "addr:country": "US",
+        "addr:housenumber": "145",
+        "addr:postcode": "22601",
+        "addr:state": "VA",
+        "addr:street": "E. Tevis Street",
+        "amenity": "restaurant",
+        "brand": "Chuck E. Cheese",
+        "brand:wikidata": "Q2438391",
+        "building": "yes",
+        "cuisine": "pizza",
+        "leisure": "amusement_arcade",
+        "name": "Chuck E. Cheese",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 10:00-22:00; Su 11:00-21:00",
+        "ref": "va_winchester_145-e.-tevis-st.",
+        "website": "https://locations.chuckecheese.com/us/va/winchester/145-e.-tevis-st.",
+        "@id": "way/696435411",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3213727,
           38.6943426
         ]
@@ -3116,6 +3226,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.1595889,
+          39.1984317
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "leisure": "bowling_alley",
+        "name": "Northside Lanes",
+        "@id": "way/1214531859",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.226892,
+          38.9581693
+        ]
+      },
+      "properties": {
+        "leisure": "miniature_golf",
+        "@id": "way/1238892716",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.707508,
           39.3182592
         ]
@@ -3129,6 +3271,28 @@
         "sport": "climbing_adventure;zipline",
         "website": "https://harpersferryadventurecenter.com/",
         "@id": "way/1318854277",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8945523,
+          38.5012576
+        ]
+      },
+      "properties": {
+        "addr:city": "Brandy Station",
+        "addr:housenumber": "19372",
+        "addr:postcode": "22714",
+        "addr:state": "VA",
+        "addr:street": "Brandy Road",
+        "building": "commercial",
+        "leisure": "indoor_play",
+        "name": "Bounce With Us",
+        "@id": "way/1321519188",
         "@type": "way"
       }
     },
