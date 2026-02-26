@@ -14,6 +14,14 @@
   rel(206874);   /* Fairfax City, VA */
   rel(206870);   /* Manassas, VA */
   rel(206609);   /* Manassas Park, VA */
+  rel(1633325);  /* Clarke County */
+  rel(2534201);  /* Rappahannock County */
+  rel(1633332);  /* Warren County */
+  rel(2534173);  /* Culpeper County */
+  rel(207046);   /* Front Royal, VA */
+  rel(207037);   /* Winchester, VA */
+  rel(207020);   /* Culpeper, VA  */
+  rel(206975);   /* Berryville, VA */
 );
 
 map_to_area ->.region;
