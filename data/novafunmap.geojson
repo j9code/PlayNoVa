@@ -829,22 +829,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.1572462,
-          39.1997332
-        ]
-      },
-      "properties": {
-        "leisure": "escape_game",
-        "name": "Wreck It Rage Roomz",
-        "@id": "node/12110614871",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.3041442,
           38.6518021
         ]
@@ -3243,12 +3227,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.226892,
+          -78.2269225,
           38.9581693
         ]
       },
       "properties": {
+        "addr:city": "Front Royal",
+        "addr:state": "VA",
         "leisure": "miniature_golf",
+        "name": "North Fork Resort Mini Golf",
+        "website": "https://nfra.com/amenities",
         "@id": "way/1238892716",
         "@type": "way"
       }
