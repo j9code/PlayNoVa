@@ -731,25 +731,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Culpeper",
+        "addr:state": "VA",
         "leisure": "escape_game",
         "name": "Puzzle Room Live",
+        "website": "https://puzzleroomlive.com/",
         "@id": "node/11673332745",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.9976507,
-          38.4696279
-        ]
-      },
-      "properties": {
-        "leisure": "amusement_arcade",
-        "name": "Unreality",
-        "@id": "node/11674156536",
         "@type": "node"
       }
     },
@@ -818,8 +805,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Winchester",
+        "addr:state": "VA",
         "leisure": "indoor_play",
         "name": "Little Gym of Winchester",
+        "website": "https://www.thelittlegym.com/virginia-winchester/",
         "@id": "node/12086091790",
         "@type": "node"
       }
@@ -1755,8 +1745,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Culpeper",
+        "addr:state": "VA",
         "leisure": "amusement_arcade",
         "name": "Throwbacks",
+        "website": "https://throwbacksarcade.com/",
         "@id": "node/13431341700",
         "@type": "node"
       }
@@ -3210,14 +3203,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.1595889,
-          39.1984317
+          -78.1595871,
+          39.1984297
         ]
       },
       "properties": {
+        "addr:city": "Winchester",
+        "addr:state": "VA",
         "building": "yes",
         "leisure": "bowling_alley",
         "name": "Northside Lanes",
+        "website": "https://www.nslanes.com/",
         "@id": "way/1214531859",
         "@type": "way"
       }
@@ -3280,6 +3276,7 @@
         "building": "commercial",
         "leisure": "indoor_play",
         "name": "Bounce With Us",
+        "website": "https://www.comebouncewithus.com/",
         "@id": "way/1321519188",
         "@type": "way"
       }
