@@ -3502,27 +3502,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4286643,
-          39.0184366
-        ]
-      },
-      "properties": {
-        "addr:city": "Sterling",
-        "addr:postcode": "20166",
-        "addr:state": "VA",
-        "addr:street": "Jesse Court",
-        "leisure": "miniature_golf",
-        "name": "Dulles Golf Center Mini Golf",
-        "website": "https://dullesgolf.com/blog/18-hole-miniature-golf-course/",
-        "@id": "way/1458401668",
-        "@type": "way"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.1709912,
           38.672893
         ]
