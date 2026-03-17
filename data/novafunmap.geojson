@@ -2121,6 +2121,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.2548187,
+          38.6986068
+        ]
+      },
+      "properties": {
+        "addr:city": "Lorton",
+        "addr:state": "VA",
+        "leisure": "miniature_golf",
+        "name": "Masterpiece Mini Golf",
+        "website": "https://www.workhousearts.org/masterpiece-mini-golf",
+        "@id": "node/13653686730",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
