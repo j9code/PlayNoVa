@@ -2140,6 +2140,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.060958,
+          38.862444
+        ]
+      },
+      "properties": {
+        "addr:city": "Arlington",
+        "addr:state": "VA",
+        "indoor_play": "slime",
+        "leisure": "indoor_play",
+        "name": "Slime Co.",
+        "website": "https://shopslimeco.com/",
+        "@id": "node/13657289845",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
