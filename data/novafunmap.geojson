@@ -3177,27 +3177,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4106649,
-          38.9370834
-        ]
-      },
-      "properties": {
-        "addr:city": "Herdon",
-        "addr:state": "VA",
-        "attraction": "carousel",
-        "building": "yes",
-        "name": "Herschell Carousel",
-        "tourism": "attraction",
-        "website": "https://www.fairfaxcounty.gov/parks/frying-pan-park/carousel",
-        "@id": "way/983070204",
-        "@type": "way"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.1432351,
           38.8714884
         ]
