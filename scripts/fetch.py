@@ -22,7 +22,9 @@ import urllib.request
 from datetime import datetime, timezone
 
 OVERPASS_ENDPOINTS = [
-   "https://overpass.maprva.org/api",    
+   "https://overpass-api.de/api/interpreter",
+   "https://overpass.private.coffee/api/interpreter",  
+   "https://overpass.maprva.org/api/interpreter",
 ]
 
 QUERY_FILE = "query/playquery.ql"
