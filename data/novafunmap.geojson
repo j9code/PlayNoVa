@@ -37,9 +37,12 @@
       "properties": {
         "addr:city": "Annandale",
         "addr:state": "VA",
+        "branch": "Annandale",
+        "brand": "Bowlero",
+        "brand:wikidata": "Q17102967",
         "building": "yes",
         "leisure": "bowling_alley",
-        "name": "Bowlero Annandale",
+        "name": "Bowlero",
         "sport": "10pin",
         "website": "https://www.bowlero.com/location/bowlero-annandale",
         "@id": "node/1655593237",
