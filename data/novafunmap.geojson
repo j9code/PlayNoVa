@@ -1971,8 +1971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.154329,
-          38.7665278
+          -77.153501,
+          38.766227
         ]
       },
       "properties": {
@@ -1983,6 +1983,7 @@
         "addr:state": "VA",
         "addr:street": "Manchester Boulevard",
         "addr:unit": "Suite 10B",
+        "check_date": "2026-04-12",
         "leisure": "indoor_play",
         "name": "Hyper Kidz Alexandria",
         "phone": "+1 703-936-2505",
