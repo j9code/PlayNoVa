@@ -1492,29 +1492,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.2508718,
-          38.6616952
-        ]
-      },
-      "properties": {
-        "addr:city": "Woodbridge",
-        "addr:housenumber": "13409",
-        "addr:postcode": "22191",
-        "addr:state": "VA",
-        "addr:street": "Occoquan Road",
-        "leisure": "bowling_alley",
-        "name": "Bowl America Woodbridge",
-        "sport": "10pin",
-        "website": "https://www.bowlero.com/location/bowl-america-woodbridge",
-        "@id": "node/13410928933",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.3753196,
           39.010733
         ]
@@ -2445,6 +2422,30 @@
         "sport": "swimming",
         "website": "https://www.fairfaxcounty.gov/parks/watermine",
         "@id": "way/78343475",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2508766,
+          38.6616011
+        ]
+      },
+      "properties": {
+        "addr:city": "Woodbridge",
+        "addr:housenumber": "13409",
+        "addr:postcode": "22191",
+        "addr:state": "VA",
+        "addr:street": "Occoquan Road",
+        "building": "yes",
+        "leisure": "bowling_alley",
+        "name": "Bowl America Woodbridge",
+        "sport": "10pin",
+        "website": "https://www.bowlero.com/location/bowl-america-woodbridge",
+        "@id": "way/93958103",
         "@type": "way"
       }
     },
