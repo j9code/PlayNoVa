@@ -2147,6 +2147,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.1113012,
+          38.8792372
+        ]
+      },
+      "properties": {
+        "addr:city": "Arlington",
+        "addr:housenumber": "4238",
+        "addr:postcode": "22203",
+        "addr:street": "Wilson Boulevard",
+        "addr:unit": "1295",
+        "check_date": "2026-04-26",
+        "contact:facebook": "https://www.facebook.com/Juniorsplaylandarlington/",
+        "contact:instagram": "https://www.instagram.com/Juniorsplayland",
+        "description": "Indoor playground with ball pits, slides, and a pretend-play village.",
+        "fee": "yes",
+        "indoor": "room",
+        "leisure": "indoor_play",
+        "level": "0",
+        "max_age": "10",
+        "min_age": "1",
+        "name": "Junior Playland",
+        "opening_hours": "Mo-Th,Sa 09:00-20:00; Fr 09:00-21:00; Su 09:00-19:00",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "website": "https://juniorplayland.com/",
+        "@id": "node/13764972614",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
