@@ -1421,8 +1421,11 @@
         "addr:postcode": "20175",
         "addr:state": "VA",
         "addr:street": "Somerset Crossing Drive",
+        "brand": "Urban Air",
+        "brand:wikidata": "Q110172893",
         "leisure": "trampoline_park",
-        "name": "Urban Air Trampoline and Adventure Park",
+        "name": "Urban Air",
+        "official_name": "Urban Air Trampoline and Adventure Park",
         "website": "https://www.urbanair.com/virginia-gainesville/",
         "@id": "node/13391344384",
         "@type": "node"
