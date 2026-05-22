@@ -1216,6 +1216,8 @@
         "addr:postcode": "20166",
         "addr:state": "VA",
         "addr:street": "East Severn Way",
+        "brand": "K1 Speed",
+        "brand:wikidata": "Q105615897",
         "leisure": "sports_centre",
         "name": "K1 Speed",
         "sport": "karting",
