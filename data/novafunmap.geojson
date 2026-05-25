@@ -139,6 +139,8 @@
         "addr:street": "Catoctin Circle Southeast",
         "leisure": "bowling_alley",
         "name": "The Branch",
+        "opening_hours": "Mo 17:00-22:00,Tu-Th 11:00-22:00,Fr-Sa 11:00-23:59,Su 11:00-21:00",
+        "phone": "+1-703-777-1864",
         "sport": "10pin",
         "website": "https://bowlthebranch.com/",
         "@id": "node/2880512726",
