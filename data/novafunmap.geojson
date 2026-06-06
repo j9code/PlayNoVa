@@ -1306,17 +1306,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.1741602,
-          38.7740752
+          -77.1741871,
+          38.7740793
         ]
       },
       "properties": {
         "addr:city": "Springfield",
-        "addr:housenumber": "6615",
+        "addr:floor": "1",
+        "addr:housenumber": "6500",
         "addr:postcode": "22150",
         "addr:state": "VA",
         "addr:street": "Springfield Mall",
+        "check_date": "2026-06-05",
         "leisure": "amusement_arcade",
+        "level": "0",
         "name": "Kako Claw",
         "website": "https://kakoclaw.com/locations/springfield-town-center/",
         "@id": "node/13375177571",
