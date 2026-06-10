@@ -3509,6 +3509,7 @@
         "attraction": "slide",
         "name": "Mega Slide",
         "operator": "Great Country Farms",
+        "tourism": "attraction",
         "website": "https://greatcountryfarms.com/attractions//",
         "@id": "way/1445195661",
         "@type": "way"
@@ -3549,6 +3550,7 @@
         "attraction": "slide",
         "name": "Triple Threat Slide",
         "operator": "Great Country Farms",
+        "tourism": "attraction",
         "website": "https://greatcountryfarms.com/attractions//",
         "@id": "way/1445225600",
         "@type": "way"
@@ -3569,6 +3571,7 @@
         "attraction": "amusement_ride",
         "name": "Roller Racers",
         "operator": "Great Country Farms",
+        "tourism": "attraction",
         "website": "https://greatcountryfarms.com/attractions//",
         "@id": "way/1445231504",
         "@type": "way"
