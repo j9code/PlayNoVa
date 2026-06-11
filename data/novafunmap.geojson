@@ -2195,6 +2195,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.4331561,
+          39.043957
+        ]
+      },
+      "properties": {
+        "addr:city": "Sterling",
+        "addr:housenumber": "45275",
+        "addr:postcode": "20166",
+        "addr:state": "VA",
+        "addr:street": "Knowledge Drive",
+        "description": "video games; high ropes course; laser tag; rock climbing wall; bumper cars",
+        "leisure": "bowling_alley",
+        "name": "Pinstack",
+        "opening_date": "2026-06-12",
+        "phone": "+1-571-673-2695",
+        "website": "https://pinstackbowl.com/locations/kincora-loudoun-county-virginia/",
+        "@id": "node/13929985746",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
