@@ -3623,6 +3623,21 @@
         "@id": "way/1462708123",
         "@type": "way"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9453305,
+          38.4736166
+        ]
+      },
+      "properties": {
+        "leisure": "water_park",
+        "@id": "way/1530156760",
+        "@type": "way"
+      }
     }
   ]
 }
