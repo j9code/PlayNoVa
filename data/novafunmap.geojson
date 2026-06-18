@@ -2220,6 +2220,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.2932749,
+          38.6455796
+        ]
+      },
+      "properties": {
+        "addr:city": "Woodbridge",
+        "addr:state": "VA",
+        "leisure": "indoor_play",
+        "name": "Slick City Action Park",
+        "phone": "+1-703-775-1305",
+        "website": "https://slickcity.com/va-woodbridge/",
+        "@id": "node/13948577388",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
