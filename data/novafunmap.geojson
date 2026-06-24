@@ -1538,8 +1538,10 @@
         "addr:postcode": "20109",
         "addr:state": "VA",
         "addr:street": "Sudley Road",
+        "addr:unit": "107",
         "leisure": "indoor_play",
         "name": "Billy Beez",
+        "phone": "+1-571-921-4029",
         "website": "https://billybeezus.com/location/manassas-mall/",
         "@id": "node/13411621605",
         "@type": "node"
