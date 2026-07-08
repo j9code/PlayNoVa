@@ -2242,6 +2242,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.1742775,
+          38.7750143
+        ]
+      },
+      "properties": {
+        "attraction": "carousel",
+        "@id": "node/13996288983",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
