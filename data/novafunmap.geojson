@@ -1175,7 +1175,7 @@
         "addr:state": "VA",
         "addr:street": "Beaumeade Circle",
         "leisure": "indoor_play",
-        "name": "Hyper Kidz Ashburn",
+        "name": "Hyper Kidz",
         "website": "https://ashburn.hyperkidzplay.com/",
         "@id": "node/13370911901",
         "@type": "node"
@@ -1977,7 +1977,7 @@
         "addr:unit": "Suite 10B",
         "check_date": "2026-04-12",
         "leisure": "indoor_play",
-        "name": "Hyper Kidz Alexandria",
+        "name": "Hyper Kidz",
         "phone": "+1 703-936-2505",
         "website": "https://alexandria.hyperkidzplay.com/",
         "@id": "node/13538911034",
