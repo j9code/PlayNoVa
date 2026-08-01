@@ -3675,6 +3675,27 @@
         "@id": "way/1530156760",
         "@type": "way"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3730421,
+          38.6590522
+        ]
+      },
+      "properties": {
+        "addr:city": "Woodbridge",
+        "addr:housenumber": "5301",
+        "addr:postcode": "22193",
+        "addr:state": "VA",
+        "addr:street": "Dale Boulevard",
+        "leisure": "water_park",
+        "name": "Waterworks Waterparks",
+        "@id": "way/1546382850",
+        "@type": "way"
+      }
     }
   ]
 }
