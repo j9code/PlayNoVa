@@ -2503,6 +2503,7 @@
         "addr:state": "VA",
         "building": "roof",
         "building:levels": "2",
+        "check_date": "2026-07-31",
         "leisure": "ice_rink",
         "name": "Reston Town Center Pavilion",
         "operator": "Boston Properties",
