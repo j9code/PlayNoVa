@@ -1823,14 +1823,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.2327991,
-          38.9243537
+          -77.2325307,
+          38.9243502
         ]
       },
       "properties": {
         "addr:city": "Tysons",
+        "addr:floor": "1",
         "addr:state": "VA",
+        "check_date": "2026-08-12",
         "leisure": "amusement_arcade",
+        "level": "0",
         "name": "Sandbox VR",
         "virtual_reality": "yes",
         "website": "https://sandboxvr.com/mclean",
