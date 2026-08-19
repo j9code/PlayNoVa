@@ -251,6 +251,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.4748588,
+          39.0444597
+        ]
+      },
+      "properties": {
+        "addr:city": "Ashburn",
+        "addr:housenumber": "44110",
+        "addr:postcode": "20147",
+        "addr:state": "VA",
+        "addr:street": "Ashburn Shopping Plaza",
+        "addr:unit": "140",
+        "contact:email": "ashburninfo@playstreetmuseum.com",
+        "leisure": "indoor_play",
+        "name": "Play Street Museum",
+        "phone": "+1-703-722-0874",
+        "website": "https://www.ashburn.playstreetmuseum.com",
+        "@id": "node/4110786896",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.5050928,
           38.7716125
         ]
@@ -2252,6 +2277,30 @@
       "properties": {
         "attraction": "carousel",
         "@id": "node/13996288983",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2611245,
+          38.8698804
+        ]
+      },
+      "properties": {
+        "addr:city": "Fairfax",
+        "addr:housenumber": "3069",
+        "addr:postcode": "22031",
+        "addr:state": "VA",
+        "addr:street": "Nutley Street",
+        "contact:email": "fairfaxinfo@playstreetmuseum.com",
+        "leisure": "indoor_play",
+        "name": "Play Street Museum",
+        "phone": "+1-703-722-0911",
+        "website": "https://www.fairfax.playstreetmuseum.com",
+        "@id": "node/14104746232",
         "@type": "node"
       }
     },
