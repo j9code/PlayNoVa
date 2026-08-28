@@ -854,6 +854,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.2786943,
+          38.8627563
+        ]
+      },
+      "properties": {
+        "addr:city": "Fairfax",
+        "addr:housenumber": "9699",
+        "addr:state": "VA",
+        "addr:street": "Fairfax Boulevard",
+        "leisure": "bowling_alley",
+        "name": "Bowl America",
+        "opening_hours": "Mo-Fr 16:00-23:00, Sa-Su 11:00-23:00",
+        "phone": "+1-571-328-7125",
+        "source": "esri/Virginia_address",
+        "website": "https://www.bowlero.com/location/bowl-america-fairfax",
+        "@id": "node/12117645991",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3041442,
           38.6518021
         ]
