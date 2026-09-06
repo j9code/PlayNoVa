@@ -227,30 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.2784778,
-          38.862867
-        ]
-      },
-      "properties": {
-        "addr:city": "Fairfax",
-        "addr:housenumber": "9699",
-        "addr:postcode": "22031",
-        "addr:state": "VA",
-        "addr:street": "Fairfax Boulevard",
-        "leisure": "bowling_alley",
-        "name": "Bowl America Fairfax",
-        "phone": "+1 703-2737700",
-        "sport": "10pin",
-        "website": "https://www.bowlero.com/location/bowl-america-fairfax",
-        "@id": "node/3901330162",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.4748588,
           39.0444597
         ]
@@ -864,10 +840,11 @@
         "addr:state": "VA",
         "addr:street": "Fairfax Boulevard",
         "leisure": "bowling_alley",
-        "name": "Bowl America",
+        "name": "Bowl America Fairfax",
         "opening_hours": "Mo-Fr 16:00-23:00, Sa-Su 11:00-23:00",
         "phone": "+1-571-328-7125",
         "source": "esri/Virginia_address",
+        "sport": "10pin",
         "website": "https://www.bowlero.com/location/bowl-america-fairfax",
         "@id": "node/12117645991",
         "@type": "node"
