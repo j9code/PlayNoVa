@@ -25,25 +25,35 @@
 
     L.control.zoom({ position: 'bottomleft' }).addTo(map);
 
-    // 2) Basemaps
-    var cartoLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
-      subdomains: 'abcd',
-      maxZoom: 20
-    });
+   // 2) Basemaps — no API key required
 
-    var cartoVoyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
-      subdomains: 'abcd',
-      maxZoom: 20
-    });
+  var esriLightGray = L.tileLayer(
+  'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+  {
+    attribution: 'Tiles &copy; Esri',
+    maxZoom: 16
+  }
+);
 
-    var baseMaps = {
-      "Light": cartoLight,
-      "Voyager": cartoVoyager
-    };
+  var esriLightGrayReference = L.tileLayer(
+  'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}',
+  {
+    attribution: 'Tiles &copy; Esri',
+    maxZoom: 16
+  }
+);
 
-    cartoLight.addTo(map);
+// Combine base map and reference labels
+var grayBasemap = L.layerGroup([
+  esriLightGray,
+  esriLightGrayReference
+]);
+
+var baseMaps = {
+  "Light Gray": grayBasemap
+};
+
+grayBasemap.addTo(map);
 
     // 3) Shared cluster group (ALL categories cluster together by LOCATION)
     var cluster = L.markerClusterGroup({
