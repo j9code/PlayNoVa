@@ -25,9 +25,9 @@
 
     L.control.zoom({ position: 'bottomleft' }).addTo(map);
 
-   // 2) Basemaps — no API key required
+// 2) Basemap — Esri Light Gray, no API key required
 
-  var esriLightGray = L.tileLayer(
+var esriLightGray = L.tileLayer(
   'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
   {
     attribution: 'Tiles &copy; Esri',
@@ -35,7 +35,7 @@
   }
 );
 
-  var esriLightGrayReference = L.tileLayer(
+var esriLightGrayReference = L.tileLayer(
   'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}',
   {
     attribution: 'Tiles &copy; Esri',
@@ -43,15 +43,10 @@
   }
 );
 
-// Combine base map and reference labels
 var grayBasemap = L.layerGroup([
   esriLightGray,
   esriLightGrayReference
 ]);
-
-var baseMaps = {
-  "Light Gray": grayBasemap
-};
 
 grayBasemap.addTo(map);
 
@@ -167,7 +162,7 @@ grayBasemap.addTo(map);
     // 7) Layers control — always visible
     var overlays = {};
     var overlayList = [];
-    var layersControl = L.control.layers(baseMaps, overlays, { collapsed: isMobile }).addTo(map);
+    var layersControl = L.control.layers(null, overlays, { collapsed: isMobile }).addTo(map);
 
     function refreshLayersControlUI() {
       if (layersControl && layersControl._update) {
