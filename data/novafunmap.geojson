@@ -1665,14 +1665,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.8010212,
-          38.7296522
+          -77.8010235,
+          38.7296777
         ]
       },
       "properties": {
         "addr:city": "Warrenton",
+        "addr:housenumber": "251",
+        "addr:postcode": "20186",
         "addr:state": "VA",
+        "addr:street": "West Lee Highway",
         "leisure": "bowling_alley",
+        "mapillary": "1548397539835246",
         "name": "Galaxy Strikes Bowling Center",
         "sport": "10pin",
         "website": "https://galaxystrikes.com/",
