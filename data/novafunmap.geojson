@@ -2289,6 +2289,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.7154318,
+          39.1377176
+        ]
+      },
+      "properties": {
+        "addr:city": "Purcellville",
+        "addr:housenumber": "144",
+        "addr:state": "VA",
+        "addr:street": "North 21st Street",
+        "leisure": "amusement_arcade",
+        "name": "Jackpot Pinball Arcade",
+        "phone": "+1-540-751-9201",
+        "website": "https://jackpot-pinball.square.site",
+        "@id": "node/14169787822",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
