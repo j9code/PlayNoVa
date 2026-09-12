@@ -650,9 +650,11 @@
         "addr:postcode": "22304",
         "addr:state": "VA",
         "addr:street": "South Pickett Street",
-        "check_date": "2025-12-11",
+        "check_date": "2026-09-11",
+        "check_date:opening_hours": "2026-09-11",
         "leisure": "trampoline_park",
         "name": "Get Air Trampoline Park",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-22:00; Su 08:00-20:00",
         "website": "https://getairsports.com/alexandria/",
         "@id": "node/9879087409",
         "@type": "node"
