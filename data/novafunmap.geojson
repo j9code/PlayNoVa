@@ -1603,30 +1603,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.2976026,
-          38.6447065
-        ]
-      },
-      "properties": {
-        "addr:city": "Woodbridge",
-        "addr:housenumber": "2700",
-        "addr:postcode": "22192",
-        "addr:state": "VA",
-        "addr:street": "Potomac Mills Circle",
-        "addr:unit": "711",
-        "leisure": "trampoline_park",
-        "name": "Off Limitz Adventure Park",
-        "sport": "laser_tag",
-        "website": "https://www.healthyfunone.com/",
-        "@id": "node/13411626621",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.156572,
           38.9446136
         ]
@@ -3474,6 +3450,30 @@
         "name": "Bounce With Us",
         "website": "https://www.comebouncewithus.com/",
         "@id": "way/1321519188",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2978673,
+          38.6448288
+        ]
+      },
+      "properties": {
+        "addr:city": "Woodbridge",
+        "addr:housenumber": "2700",
+        "addr:postcode": "22192",
+        "addr:state": "VA",
+        "addr:street": "Potomac Mills Circle",
+        "addr:unit": "711",
+        "leisure": "trampoline_park",
+        "name": "Off Limitz Adventure Park",
+        "sport": "laser_tag",
+        "website": "https://www.healthyfunone.com/",
+        "@id": "way/1344437753",
         "@type": "way"
       }
     },
