@@ -95,8 +95,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.1232505,
-          38.8497264
+          -77.1232451,
+          38.84961
         ]
       },
       "properties": {
@@ -111,6 +111,7 @@
         "internet_access": "wlan",
         "internet_access:fee": "customers",
         "leisure": "sports_centre",
+        "mapillary": "1478903464296473",
         "name": "Ultrazone Bailey's Crossroads",
         "opening_hours": "Th 16:00-20:00; Fr 16:00-24:00; Sa 10:00-24:00; Su 12:00-20:00",
         "payment:mastercard": "yes",
@@ -2281,6 +2282,27 @@
         "phone": "+1-540-751-9201",
         "website": "https://jackpot-pinball.square.site",
         "@id": "node/14169787822",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4453858,
+          39.0578515
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "44933",
+        "addr:street": "George Washington Boulevard",
+        "addr:unit": "155",
+        "check_date": "2026-09-30",
+        "leisure": "amusement_arcade",
+        "name": "The Outer Limits",
+        "phone": "+1 703-729-4768",
+        "@id": "node/14235923799",
         "@type": "node"
       }
     },
