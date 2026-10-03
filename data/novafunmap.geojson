@@ -2290,27 +2290,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4453858,
-          39.0578515
-        ]
-      },
-      "properties": {
-        "addr:housenumber": "44933",
-        "addr:street": "George Washington Boulevard",
-        "addr:unit": "155",
-        "check_date": "2026-09-30",
-        "leisure": "amusement_arcade",
-        "name": "The Outer Limits",
-        "phone": "+1 703-729-4768",
-        "@id": "node/14235923799",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.3888534,
           39.0608013
         ]
