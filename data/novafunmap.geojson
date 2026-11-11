@@ -2271,6 +2271,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.159597,
+          39.1984051
+        ]
+      },
+      "properties": {
+        "addr:city": "Winchester",
+        "addr:state": "VA",
+        "leisure": "bowling_alley",
+        "name": "Northside Lanes",
+        "website": "https://www.nslanes.com/",
+        "@id": "node/14365580911",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
@@ -3349,26 +3368,6 @@
         "name": "Perch Putt",
         "website": "https://www.perchputt.com/",
         "@id": "way/1180086489",
-        "@type": "way"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.1595871,
-          39.1984297
-        ]
-      },
-      "properties": {
-        "addr:city": "Winchester",
-        "addr:state": "VA",
-        "building": "yes",
-        "leisure": "bowling_alley",
-        "name": "Northside Lanes",
-        "website": "https://www.nslanes.com/",
-        "@id": "way/1214531859",
         "@type": "way"
       }
     },
