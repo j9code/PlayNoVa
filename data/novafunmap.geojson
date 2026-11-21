@@ -2290,6 +2290,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.4424001,
+          38.9424302
+        ]
+      },
+      "properties": {
+        "check_date": "2026-11-20",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "Gameway",
+        "wheelchair": "yes",
+        "@id": "node/14400279622",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.3888534,
           39.0608013
         ]
